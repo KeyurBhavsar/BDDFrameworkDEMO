@@ -12,5 +12,5 @@ Feature: Free CRM Login Feature
     
     Examples: 
     | username | password |
-    | KeyurAutomation  | Test@12345 |
-    | ShaliniAutomation | Test@1234 |
+    | ************  | ******* |
+    | ************  | ******** |
