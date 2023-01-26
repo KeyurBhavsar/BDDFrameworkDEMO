@@ -14,9 +14,9 @@ Feature: Free CRM Login Feature
   	
   	  Examples: 
     | firstname | lastname | company |
-    | David  | Cris | Amazon |
-    | ABHAY | Marathi | Home |
-    | Aditya | Patel | Walmart |
-    | Preet | Gunjariya | Linamar |
-    | Abhishek | Vyas | Home |
-		| Keyur | Bhavsar | CGI | 
+    | ****** | Cris | Amazon |
+    | ****** | Marathi | Home |
+    | ***** | Patel | Walmart |
+    | ****** | Gunjariya | Linamar |
+    | ****** | Vyas | Home |
+    | ****** | Bhavsar | CGI | 
