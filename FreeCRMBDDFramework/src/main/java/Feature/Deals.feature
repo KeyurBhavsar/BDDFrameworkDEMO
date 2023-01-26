@@ -8,7 +8,8 @@ Given user login through driver
     
 When user login through credentials
     | username | password |
-    | KeyurAutomation  | Test@12345 |
+    | ************  | ******* |
+  
 When user on Home page and click on Deals
 Then user enters details in New Deal
 
